@@ -1,2 +1,2 @@
-# comitbites-documents
-Comitbites Documentation
+# documents
+Project Documentation for the CometBites Project 
