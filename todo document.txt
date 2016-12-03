@@ -1,10 +1,4 @@
 Documents
 
 1. Design Documents - Extensions Pending
-3. Supplementary Specification - Not started
-9. High Level Architecture - Pending
-	9.2 Composite - Pending
-
-4. Architecture Doc
-	4.2 Rationale textual description - Pending 
 
