@@ -3,15 +3,18 @@ Documents
 1. Design Documents - Pending 
 2. Status reports - Need to add status 
 3. Supplementary Specification - Not started
-4. Architecture Doc - 
+4. Architecture Doc
+	4.1 Figure - Done
+	4.2 Rationale textual description - Pending
 5. DB Design Doc - Done
 6. Project Plan Document - Done
 7. Vision Document -Done
 8. Executive Summary - Done inside feasibility
 9. High Level Architecture - Pending
-10.Feasibility doc - done
-11.meeting notes - done
-12.Operation contracts
-13.Domain Model
-14.UCR
-15.UI Design 
+	9.1 Logical view - Done
+	9.2 Composite - Pending
+10. Feasibility doc - Done
+11. Meeting notes - Done
+12. Operation contracts - Done
+13. Domain Model - Done
+14. UI Design 
